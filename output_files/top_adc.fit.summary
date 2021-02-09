@@ -1,0 +1,18 @@
+Fitter Status : Successful - Tue Feb 09 21:17:22 2021
+Quartus II 64-Bit Version : 14.1.1 Build 190 01/19/2015 SJ Web Edition
+Revision Name : top_adc
+Top-level Entity Name : top
+Family : MAX 10
+Device : 10M08DAF484C8GES
+Timing Models : Preliminary
+Total logic elements : 2,027 / 8,064 ( 25 % )
+    Total combinational functions : 1,909 / 8,064 ( 24 % )
+    Dedicated logic registers : 1,169 / 8,064 ( 14 % )
+Total registers : 1169
+Total pins : 8 / 250 ( 3 % )
+Total virtual pins : 0
+Total memory bits : 274,432 / 387,072 ( 71 % )
+Embedded Multiplier 9-bit elements : 0 / 48 ( 0 % )
+Total PLLs : 1 / 2 ( 50 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 1 / 1 ( 100 % )

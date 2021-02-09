@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <debug showDebugMenu="0" />
+ <systemtable filter="All Interfaces">
+  <columns>
+   <connections preferredWidth="143" />
+   <irq preferredWidth="34" />
+   <export preferredWidth="228" />
+   <inputclock preferredWidth="130" />
+  </columns>
+ </systemtable>
+ <library
+   expandedCategories="Project,Library/Basic Functions,Library,Library/Basic Functions/Clocks; PLLs and Resets,Library/Basic Functions/Clocks; PLLs and Resets/PLL" />
+ <window width="1938" height="1048" x="-9" y="-9" />
+ <generation path="_PROJECT_NAME_" />
+ <hdlexample language="VERILOG" />
+</preferences>

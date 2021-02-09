@@ -1,0 +1,718 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+                              obj/default/ondie_temp.o (memcpy)
+c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+                              obj/default/ondie_temp.o (printf)
+c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+                              c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o) (___vfprintf_internal_r)
+c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+                              c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o) (__sfvwrite_small_dev)
+c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+                              c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o) (_impure_ptr)
+c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+                              c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o) (strlen)
+c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+                              c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o) (_write_r)
+c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+                              c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o) (errno)
+c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                              c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o) (__udivsi3)
+c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/mno-hw-mul\libgcc.a(lib2-mul.o)
+                              c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o) (__mulsi3)
+../temp_sensor_bsp/\libhal_bsp.a(alt_load.o)
+                              ../temp_sensor_bsp//obj/HAL/src/crt0.o (alt_load)
+../temp_sensor_bsp/\libhal_bsp.a(alt_main.o)
+                              ../temp_sensor_bsp//obj/HAL/src/crt0.o (alt_main)
+../temp_sensor_bsp/\libhal_bsp.a(alt_usleep.o)
+                              obj/default/ondie_temp.o (usleep)
+../temp_sensor_bsp/\libhal_bsp.a(alt_write.o)
+                              c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o) (write)
+../temp_sensor_bsp/\libhal_bsp.a(alt_sys_init.o)
+                              ../temp_sensor_bsp/\libhal_bsp.a(alt_write.o) (jtag_uart_0)
+../temp_sensor_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                              ../temp_sensor_bsp/\libhal_bsp.a(alt_write.o) (altera_avalon_jtag_uart_write)
+../temp_sensor_bsp/\libhal_bsp.a(altera_modular_adc.o)
+                              obj/default/ondie_temp.o (adc_recalibrate)
+../temp_sensor_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+                              ../temp_sensor_bsp/\libhal_bsp.a(alt_usleep.o) (alt_busy_sleep)
+../temp_sensor_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+                              ../temp_sensor_bsp/\libhal_bsp.a(alt_load.o) (alt_dcache_flush_all)
+../temp_sensor_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                              ../temp_sensor_bsp/\libhal_bsp.a(altera_modular_adc.o) (alt_dev_llist_insert)
+../temp_sensor_bsp/\libhal_bsp.a(alt_errno.o)
+                              ../temp_sensor_bsp/\libhal_bsp.a(alt_write.o) (alt_errno)
+../temp_sensor_bsp/\libhal_bsp.a(alt_find_dev.o)
+                              ../temp_sensor_bsp/\libhal_bsp.a(altera_modular_adc.o) (alt_find_dev)
+../temp_sensor_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                              ../temp_sensor_bsp/\libhal_bsp.a(alt_load.o) (alt_icache_flush_all)
+../temp_sensor_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                              ../temp_sensor_bsp/\libhal_bsp.a(alt_sys_init.o) (altera_nios2_gen2_irq_init)
+c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+                              ../temp_sensor_bsp/\libhal_bsp.a(alt_find_dev.o) (memcmp)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+reset            0x0000000000008000 0x0000000000000020
+onchip_memory2_0 0x0000000000008020 0x0000000000007fe0
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ../temp_sensor_bsp//obj/HAL/src/crt0.o
+LOAD obj/default/ondie_temp.o
+LOAD c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libstdc++.a
+LOAD c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libm.a
+LOAD c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/mno-hw-mul\libgcc.a
+START GROUP
+LOAD c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a
+LOAD c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/mno-hw-mul\libgcc.a
+LOAD ../temp_sensor_bsp/\libhal_bsp.a
+END GROUP
+LOAD c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/mno-hw-mul\libgcc.a
+                0x0000000000008000                __alt_mem_onchip_memory2_0 = 0x8000
+
+.entry          0x0000000000008000       0x20
+ *(.entry)
+ .entry         0x0000000000008000       0x20 ../temp_sensor_bsp//obj/HAL/src/crt0.o
+                0x0000000000008000                __reset
+                0x000000000000800c                _exit
+
+.exceptions     0x0000000000008020        0x0
+                0x0000000000008020                PROVIDE (__ram_exceptions_start, ABSOLUTE (.))
+                0x0000000000008020                . = ALIGN (0x20)
+ *(.irq)
+ *(.exceptions.entry.label)
+ *(.exceptions.entry.user)
+ *(.exceptions.entry.ecc_fatal)
+ *(.exceptions.entry)
+ *(.exceptions.irqtest.user)
+ *(.exceptions.irqtest)
+ *(.exceptions.irqhandler.user)
+ *(.exceptions.irqhandler)
+ *(.exceptions.irqreturn.user)
+ *(.exceptions.irqreturn)
+ *(.exceptions.notirq.label)
+ *(.exceptions.notirq.user)
+ *(.exceptions.notirq)
+ *(.exceptions.soft.user)
+ *(.exceptions.soft)
+ *(.exceptions.unknown.user)
+ *(.exceptions.unknown)
+ *(.exceptions.exit.label)
+ *(.exceptions.exit.user)
+ *(.exceptions.exit)
+ *(.exceptions)
+                0x0000000000008020                PROVIDE (__ram_exceptions_end, ABSOLUTE (.))
+                0x0000000000008020                PROVIDE (__flash_exceptions_start, LOADADDR (.exceptions))
+
+.text           0x0000000000008020     0x1448
+                0x0000000000008020                PROVIDE (stext, ABSOLUTE (.))
+ *(.interp)
+ *(.hash)
+ *(.dynsym)
+ *(.dynstr)
+ *(.gnu.version)
+ *(.gnu.version_d)
+ *(.gnu.version_r)
+ *(.rel.init)
+ *(.rela.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rela.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rela.ctors)
+ *(.rel.dtors)
+ *(.rela.dtors)
+ *(.rel.got)
+ *(.rela.got)
+ *(.rel.sdata .rel.sdata.* .rel.gnu.linkonce.s.*)
+ *(.rela.sdata .rela.sdata.* .rela.gnu.linkonce.s.*)
+ *(.rel.sbss .rel.sbss.* .rel.gnu.linkonce.sb.*)
+ *(.rela.sbss .rela.sbss.* .rela.gnu.linkonce.sb.*)
+ *(.rel.sdata2 .rel.sdata2.* .rel.gnu.linkonce.s2.*)
+ *(.rela.sdata2 .rela.sdata2.* .rela.gnu.linkonce.s2.*)
+ *(.rel.sbss2 .rel.sbss2.* .rel.gnu.linkonce.sb2.*)
+ *(.rela.sbss2 .rela.sbss2.* .rela.gnu.linkonce.sb2.*)
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rel.plt)
+ *(.rela.plt)
+ *(.rel.dyn)
+ *(.init)
+ *(.plt)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000008020       0x3c ../temp_sensor_bsp//obj/HAL/src/crt0.o
+                0x0000000000008020                _start
+ .text          0x000000000000805c      0x15c obj/default/ondie_temp.o
+                0x000000000000805c                main
+                0x0000000000008160                celsius_lookup
+ .text          0x00000000000081b8       0x28 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+                0x00000000000081b8                memcpy
+ .text          0x00000000000081e0       0x88 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+                0x00000000000081e0                _printf_r
+                0x000000000000821c                printf
+ .text          0x0000000000008268      0x600 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+                0x00000000000082d4                ___vfprintf_internal_r
+                0x0000000000008844                __vfprintf_internal
+ .text          0x0000000000008868       0xac c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+                0x0000000000008868                __sfvwrite_small_dev
+ .text          0x0000000000008914        0x0 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .text          0x0000000000008914       0x1c c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+                0x0000000000008914                strlen
+ .text          0x0000000000008930       0x58 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+                0x0000000000008930                _write_r
+ .text          0x0000000000008988        0x0 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .text          0x0000000000008988      0x114 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                0x00000000000089f8                __divsi3
+                0x0000000000008a40                __modsi3
+                0x0000000000008a8c                __udivsi3
+                0x0000000000008a94                __umodsi3
+ .text          0x0000000000008a9c       0x28 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/mno-hw-mul\libgcc.a(lib2-mul.o)
+                0x0000000000008a9c                __mulsi3
+ .text          0x0000000000008ac4       0xe4 ../temp_sensor_bsp/\libhal_bsp.a(alt_load.o)
+                0x0000000000008b28                alt_load
+ .text          0x0000000000008ba8       0x4c ../temp_sensor_bsp/\libhal_bsp.a(alt_main.o)
+                0x0000000000008ba8                alt_main
+ .text          0x0000000000008bf4       0x30 ../temp_sensor_bsp/\libhal_bsp.a(alt_usleep.o)
+                0x0000000000008bf4                usleep
+ .text          0x0000000000008c24       0xe8 ../temp_sensor_bsp/\libhal_bsp.a(alt_write.o)
+                0x0000000000008c74                write
+ .text          0x0000000000008d0c       0x50 ../temp_sensor_bsp/\libhal_bsp.a(alt_sys_init.o)
+                0x0000000000008d0c                alt_irq_init
+                0x0000000000008d40                alt_sys_init
+ .text          0x0000000000008d5c       0x94 ../temp_sensor_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                0x0000000000008d5c                altera_avalon_jtag_uart_write
+ .text          0x0000000000008df0      0x31c ../temp_sensor_bsp/\libhal_bsp.a(altera_modular_adc.o)
+                0x0000000000008df0                altera_modular_adc_init
+                0x0000000000008e24                altera_modular_adc_open
+                0x0000000000008e70                adc_stop
+                0x0000000000008ebc                adc_start
+                0x0000000000008ef0                adc_set_mode_run_once
+                0x0000000000008f2c                adc_set_mode_run_continuously
+                0x0000000000008f64                adc_recalibrate
+                0x0000000000008fdc                adc_interrupt_enable
+                0x0000000000009018                adc_interrupt_disable
+                0x0000000000009058                adc_clear_interrupt_status
+                0x0000000000009094                adc_interrupt_asserted
+                0x00000000000090d4                adc_wait_for_interrupt
+ .text          0x000000000000910c      0x154 ../temp_sensor_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+                0x000000000000910c                alt_busy_sleep
+ .text          0x0000000000009260       0x1c ../temp_sensor_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+                0x0000000000009260                alt_dcache_flush_all
+ .text          0x000000000000927c       0xf0 ../temp_sensor_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                0x00000000000092cc                alt_dev_llist_insert
+ .text          0x000000000000936c        0x0 ../temp_sensor_bsp/\libhal_bsp.a(alt_errno.o)
+ .text          0x000000000000936c       0x90 ../temp_sensor_bsp/\libhal_bsp.a(alt_find_dev.o)
+                0x000000000000936c                alt_find_dev
+ .text          0x00000000000093fc       0x1c ../temp_sensor_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                0x00000000000093fc                alt_icache_flush_all
+ .text          0x0000000000009418       0x20 ../temp_sensor_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                0x0000000000009418                altera_nios2_gen2_irq_init
+ .text          0x0000000000009438       0x30 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+                0x0000000000009438                memcmp
+ *(.gnu.warning.*)
+ *(.fini)
+                0x0000000000009468                PROVIDE (__etext, ABSOLUTE (.))
+                0x0000000000009468                PROVIDE (_etext, ABSOLUTE (.))
+                0x0000000000009468                PROVIDE (etext, ABSOLUTE (.))
+ *(.eh_frame_hdr)
+                0x0000000000009468                . = ALIGN (0x4)
+                0x0000000000009468                PROVIDE (__preinit_array_start, ABSOLUTE (.))
+ *(.preinit_array)
+                0x0000000000009468                PROVIDE (__preinit_array_end, ABSOLUTE (.))
+                0x0000000000009468                PROVIDE (__init_array_start, ABSOLUTE (.))
+ *(.init_array)
+                0x0000000000009468                PROVIDE (__init_array_end, ABSOLUTE (.))
+                0x0000000000009468                PROVIDE (__fini_array_start, ABSOLUTE (.))
+ *(.fini_array)
+                0x0000000000009468                PROVIDE (__fini_array_end, ABSOLUTE (.))
+ *(.eh_frame)
+ *(.gcc_except_table .gcc_except_table.*)
+ *(.dynamic)
+                0x0000000000009468                PROVIDE (__CTOR_LIST__, ABSOLUTE (.))
+ *(.ctors)
+ *(SORT(.ctors.*))
+                0x0000000000009468                PROVIDE (__CTOR_END__, ABSOLUTE (.))
+                0x0000000000009468                PROVIDE (__DTOR_LIST__, ABSOLUTE (.))
+ *(.dtors)
+ *(SORT(.dtors.*))
+                0x0000000000009468                PROVIDE (__DTOR_END__, ABSOLUTE (.))
+ *(.jcr)
+                0x0000000000009468                . = ALIGN (0x4)
+
+.rodata         0x0000000000009468      0x2e0
+                0x0000000000009468                PROVIDE (__ram_rodata_start, ABSOLUTE (.))
+                0x0000000000009468                . = ALIGN (0x4)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x0000000000009468      0x2e0 obj/default/ondie_temp.o
+ *(.rodata1)
+                0x0000000000009748                . = ALIGN (0x4)
+                0x0000000000009748                PROVIDE (__ram_rodata_end, ABSOLUTE (.))
+                0x0000000000009468                PROVIDE (__flash_rodata_start, LOADADDR (.rodata))
+
+.rwdata         0x0000000000009748       0xf8 load address 0x0000000000009840
+                0x0000000000009748                PROVIDE (__ram_rwdata_start, ABSOLUTE (.))
+                0x0000000000009748                . = ALIGN (0x4)
+ *(.got.plt)
+ *(.got)
+ *(.data1)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000000009748        0x0 ../temp_sensor_bsp//obj/HAL/src/crt0.o
+ .data          0x0000000000009748        0x0 obj/default/ondie_temp.o
+ .data          0x0000000000009748        0x0 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .data          0x0000000000009748        0x0 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .data          0x0000000000009748        0x0 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .data          0x0000000000009748        0x0 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .data          0x0000000000009748       0xe0 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .data          0x0000000000009828        0x0 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .data          0x0000000000009828        0x0 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .data          0x0000000000009828        0x0 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .data          0x0000000000009828        0x0 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .data          0x0000000000009828        0x0 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .data          0x0000000000009828        0x0 ../temp_sensor_bsp/\libhal_bsp.a(alt_load.o)
+ .data          0x0000000000009828        0x0 ../temp_sensor_bsp/\libhal_bsp.a(alt_main.o)
+ .data          0x0000000000009828        0x0 ../temp_sensor_bsp/\libhal_bsp.a(alt_usleep.o)
+ .data          0x0000000000009828        0x0 ../temp_sensor_bsp/\libhal_bsp.a(alt_write.o)
+ .data          0x0000000000009828        0x0 ../temp_sensor_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .data          0x0000000000009828        0x0 ../temp_sensor_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .data          0x0000000000009828        0x0 ../temp_sensor_bsp/\libhal_bsp.a(altera_modular_adc.o)
+ .data          0x0000000000009828        0x0 ../temp_sensor_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .data          0x0000000000009828        0x0 ../temp_sensor_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .data          0x0000000000009828        0x0 ../temp_sensor_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .data          0x0000000000009828        0x0 ../temp_sensor_bsp/\libhal_bsp.a(alt_errno.o)
+ .data          0x0000000000009828        0x0 ../temp_sensor_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .data          0x0000000000009828        0x0 ../temp_sensor_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .data          0x0000000000009828        0x0 ../temp_sensor_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .data          0x0000000000009828        0x0 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+                0x0000000000011828                _gp = ABSOLUTE ((. + 0x8000))
+                0x0000000000011828                PROVIDE (gp, _gp)
+ *(.rwdata .rwdata.*)
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata         0x0000000000009828        0x8 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+                0x0000000000009828                _global_impure_ptr
+                0x000000000000982c                _impure_ptr
+ .sdata         0x0000000000009830        0x4 ../temp_sensor_bsp/\libhal_bsp.a(alt_sys_init.o)
+                0x0000000000009830                jtag_uart_0
+ .sdata         0x0000000000009834        0x8 ../temp_sensor_bsp/\libhal_bsp.a(altera_modular_adc.o)
+                0x0000000000009834                altera_modular_adc_list
+ .sdata         0x000000000000983c        0x4 ../temp_sensor_bsp/\libhal_bsp.a(alt_errno.o)
+                0x000000000000983c                alt_errno
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x0000000000009840                . = ALIGN (0x4)
+                0x0000000000009840                _edata = ABSOLUTE (.)
+                0x0000000000009840                PROVIDE (edata, ABSOLUTE (.))
+                0x0000000000009840                PROVIDE (__ram_rwdata_end, ABSOLUTE (.))
+                0x0000000000009840                PROVIDE (__flash_rwdata_start, LOADADDR (.rwdata))
+
+.bss            0x0000000000009938       0x10
+                0x0000000000009938                __bss_start = ABSOLUTE (.)
+                0x0000000000009938                PROVIDE (__sbss_start, ABSOLUTE (.))
+                0x0000000000009938                PROVIDE (___sbss_start, ABSOLUTE (.))
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0x0000000000009938        0x4 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+                0x0000000000009938                errno
+ .sbss          0x000000000000993c        0xc ../temp_sensor_bsp/\libhal_bsp.a(alt_main.o)
+                0x000000000000993c                alt_argc
+                0x0000000000009940                alt_argv
+                0x0000000000009944                alt_envp
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+ *(.scommon)
+                0x0000000000009948                PROVIDE (__sbss_end, ABSOLUTE (.))
+                0x0000000000009948                PROVIDE (___sbss_end, ABSOLUTE (.))
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000000000009948        0x0 ../temp_sensor_bsp//obj/HAL/src/crt0.o
+ .bss           0x0000000000009948        0x0 obj/default/ondie_temp.o
+ .bss           0x0000000000009948        0x0 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .bss           0x0000000000009948        0x0 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .bss           0x0000000000009948        0x0 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .bss           0x0000000000009948        0x0 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .bss           0x0000000000009948        0x0 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .bss           0x0000000000009948        0x0 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .bss           0x0000000000009948        0x0 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .bss           0x0000000000009948        0x0 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .bss           0x0000000000009948        0x0 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .bss           0x0000000000009948        0x0 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .bss           0x0000000000009948        0x0 ../temp_sensor_bsp/\libhal_bsp.a(alt_load.o)
+ .bss           0x0000000000009948        0x0 ../temp_sensor_bsp/\libhal_bsp.a(alt_main.o)
+ .bss           0x0000000000009948        0x0 ../temp_sensor_bsp/\libhal_bsp.a(alt_usleep.o)
+ .bss           0x0000000000009948        0x0 ../temp_sensor_bsp/\libhal_bsp.a(alt_write.o)
+ .bss           0x0000000000009948        0x0 ../temp_sensor_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .bss           0x0000000000009948        0x0 ../temp_sensor_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .bss           0x0000000000009948        0x0 ../temp_sensor_bsp/\libhal_bsp.a(altera_modular_adc.o)
+ .bss           0x0000000000009948        0x0 ../temp_sensor_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .bss           0x0000000000009948        0x0 ../temp_sensor_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .bss           0x0000000000009948        0x0 ../temp_sensor_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .bss           0x0000000000009948        0x0 ../temp_sensor_bsp/\libhal_bsp.a(alt_errno.o)
+ .bss           0x0000000000009948        0x0 ../temp_sensor_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .bss           0x0000000000009948        0x0 ../temp_sensor_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .bss           0x0000000000009948        0x0 ../temp_sensor_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .bss           0x0000000000009948        0x0 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ *(COMMON)
+                0x0000000000009948                . = ALIGN (0x4)
+                0x0000000000009948                __bss_end = ABSOLUTE (.)
+
+.onchip_memory2_0
+                0x0000000000009948        0x0
+                0x0000000000009948                PROVIDE (_alt_partition_onchip_memory2_0_start, ABSOLUTE (.))
+ *(.onchip_memory2_0 .onchip_memory2_0. onchip_memory2_0.*)
+                0x0000000000009948                . = ALIGN (0x4)
+                0x0000000000009948                PROVIDE (_alt_partition_onchip_memory2_0_end, ABSOLUTE (.))
+                0x0000000000009948                _end = ABSOLUTE (.)
+                0x0000000000009948                end = ABSOLUTE (.)
+                0x0000000000009948                __alt_stack_base = ABSOLUTE (.)
+                0x0000000000009948                PROVIDE (_alt_partition_onchip_memory2_0_load_addr, LOADADDR (.onchip_memory2_0))
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x39
+ *(.comment)
+ .comment       0x0000000000000000       0x39 obj/default/ondie_temp.o
+                                         0x3a (size before relaxing)
+ .comment       0x0000000000000000       0x3a c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .comment       0x0000000000000000       0x3a c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .comment       0x0000000000000000       0x3a c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .comment       0x0000000000000000       0x3a c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .comment       0x0000000000000000       0x3a c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .comment       0x0000000000000000       0x3a c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .comment       0x0000000000000000       0x3a c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .comment       0x0000000000000000       0x3a c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .comment       0x0000000000000000       0x3a c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .comment       0x0000000000000000       0x3a c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .comment       0x0000000000000000       0x3a ../temp_sensor_bsp/\libhal_bsp.a(alt_load.o)
+ .comment       0x0000000000000000       0x3a ../temp_sensor_bsp/\libhal_bsp.a(alt_main.o)
+ .comment       0x0000000000000000       0x3a ../temp_sensor_bsp/\libhal_bsp.a(alt_usleep.o)
+ .comment       0x0000000000000000       0x3a ../temp_sensor_bsp/\libhal_bsp.a(alt_write.o)
+ .comment       0x0000000000000000       0x3a ../temp_sensor_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .comment       0x0000000000000000       0x3a ../temp_sensor_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .comment       0x0000000000000000       0x3a ../temp_sensor_bsp/\libhal_bsp.a(altera_modular_adc.o)
+ .comment       0x0000000000000000       0x3a ../temp_sensor_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .comment       0x0000000000000000       0x3a ../temp_sensor_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .comment       0x0000000000000000       0x3a ../temp_sensor_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .comment       0x0000000000000000       0x3a ../temp_sensor_bsp/\libhal_bsp.a(alt_errno.o)
+ .comment       0x0000000000000000       0x3a ../temp_sensor_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .comment       0x0000000000000000       0x3a ../temp_sensor_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .comment       0x0000000000000000       0x3a ../temp_sensor_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .comment       0x0000000000000000       0x3a c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x350
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x28 ../temp_sensor_bsp//obj/HAL/src/crt0.o
+ .debug_aranges
+                0x0000000000000028       0x20 obj/default/ondie_temp.o
+ .debug_aranges
+                0x0000000000000048       0x20 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x0000000000000068       0x20 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .debug_aranges
+                0x0000000000000088       0x20 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .debug_aranges
+                0x00000000000000a8       0x20 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_aranges
+                0x00000000000000c8       0x18 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .debug_aranges
+                0x00000000000000e0       0x20 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x0000000000000100       0x20 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .debug_aranges
+                0x0000000000000120       0x18 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_aranges
+                0x0000000000000138       0x20 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_aranges
+                0x0000000000000158       0x20 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_aranges
+                0x0000000000000178       0x20 ../temp_sensor_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_aranges
+                0x0000000000000198       0x20 ../temp_sensor_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_aranges
+                0x00000000000001b8       0x20 ../temp_sensor_bsp/\libhal_bsp.a(alt_usleep.o)
+ .debug_aranges
+                0x00000000000001d8       0x20 ../temp_sensor_bsp/\libhal_bsp.a(alt_write.o)
+ .debug_aranges
+                0x00000000000001f8       0x20 ../temp_sensor_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_aranges
+                0x0000000000000218       0x20 ../temp_sensor_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_aranges
+                0x0000000000000238       0x20 ../temp_sensor_bsp/\libhal_bsp.a(altera_modular_adc.o)
+ .debug_aranges
+                0x0000000000000258       0x20 ../temp_sensor_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_aranges
+                0x0000000000000278       0x20 ../temp_sensor_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_aranges
+                0x0000000000000298       0x20 ../temp_sensor_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_aranges
+                0x00000000000002b8       0x18 ../temp_sensor_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_aranges
+                0x00000000000002d0       0x20 ../temp_sensor_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_aranges
+                0x00000000000002f0       0x20 ../temp_sensor_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_aranges
+                0x0000000000000310       0x20 ../temp_sensor_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_aranges
+                0x0000000000000330       0x20 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x426e
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000       0xac ../temp_sensor_bsp//obj/HAL/src/crt0.o
+ .debug_info    0x00000000000000ac      0x1a4 obj/default/ondie_temp.o
+ .debug_info    0x0000000000000250      0x106 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_info    0x0000000000000356      0x6cb c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .debug_info    0x0000000000000a21      0xb49 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .debug_info    0x000000000000156a      0x656 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_info    0x0000000000001bc0      0x5a7 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .debug_info    0x0000000000002167       0xc2 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_info    0x0000000000002229      0x639 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .debug_info    0x0000000000002862       0x83 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_info    0x00000000000028e5      0x270 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_info    0x0000000000002b55       0xb4 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_info    0x0000000000002c09      0x13e ../temp_sensor_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_info    0x0000000000002d47      0x117 ../temp_sensor_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_info    0x0000000000002e5e       0xa9 ../temp_sensor_bsp/\libhal_bsp.a(alt_usleep.o)
+ .debug_info    0x0000000000002f07      0x199 ../temp_sensor_bsp/\libhal_bsp.a(alt_write.o)
+ .debug_info    0x00000000000030a0      0x181 ../temp_sensor_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_info    0x0000000000003221      0x18e ../temp_sensor_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_info    0x00000000000033af      0x63e ../temp_sensor_bsp/\libhal_bsp.a(altera_modular_adc.o)
+ .debug_info    0x00000000000039ed       0xd0 ../temp_sensor_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_info    0x0000000000003abd       0x8b ../temp_sensor_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_info    0x0000000000003b48      0x1a2 ../temp_sensor_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_info    0x0000000000003cea       0x9f ../temp_sensor_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_info    0x0000000000003d89      0x2e2 ../temp_sensor_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_info    0x000000000000406b       0x8b ../temp_sensor_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_info    0x00000000000040f6       0x8b ../temp_sensor_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_info    0x0000000000004181       0xed c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+
+.debug_abbrev   0x0000000000000000     0x1744
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0x12 ../temp_sensor_bsp//obj/HAL/src/crt0.o
+ .debug_abbrev  0x0000000000000012      0x12f obj/default/ondie_temp.o
+ .debug_abbrev  0x0000000000000141       0xa4 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_abbrev  0x00000000000001e5      0x1f1 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .debug_abbrev  0x00000000000003d6      0x2a1 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .debug_abbrev  0x0000000000000677      0x1c3 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_abbrev  0x000000000000083a      0x14a c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .debug_abbrev  0x0000000000000984       0x7f c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_abbrev  0x0000000000000a03      0x1a8 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .debug_abbrev  0x0000000000000bab       0x37 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_abbrev  0x0000000000000be2       0xf6 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_abbrev  0x0000000000000cd8       0x6f c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_abbrev  0x0000000000000d47       0x9f ../temp_sensor_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_abbrev  0x0000000000000de6       0xa9 ../temp_sensor_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_abbrev  0x0000000000000e8f       0x60 ../temp_sensor_bsp/\libhal_bsp.a(alt_usleep.o)
+ .debug_abbrev  0x0000000000000eef       0xf9 ../temp_sensor_bsp/\libhal_bsp.a(alt_write.o)
+ .debug_abbrev  0x0000000000000fe8       0xf0 ../temp_sensor_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_abbrev  0x00000000000010d8       0xd5 ../temp_sensor_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_abbrev  0x00000000000011ad      0x176 ../temp_sensor_bsp/\libhal_bsp.a(altera_modular_adc.o)
+ .debug_abbrev  0x0000000000001323       0x7e ../temp_sensor_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_abbrev  0x00000000000013a1       0x42 ../temp_sensor_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_abbrev  0x00000000000013e3      0x114 ../temp_sensor_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_abbrev  0x00000000000014f7       0x5a ../temp_sensor_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_abbrev  0x0000000000001551       0xf0 ../temp_sensor_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_abbrev  0x0000000000001641       0x42 ../temp_sensor_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_abbrev  0x0000000000001683       0x42 ../temp_sensor_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_abbrev  0x00000000000016c5       0x7f c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+
+.debug_line     0x0000000000000000     0x1ce2
+ *(.debug_line)
+ .debug_line    0x0000000000000000       0x66 ../temp_sensor_bsp//obj/HAL/src/crt0.o
+ .debug_line    0x0000000000000066       0xdf obj/default/ondie_temp.o
+ .debug_line    0x0000000000000145      0x179 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_line    0x00000000000002be      0x21d c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .debug_line    0x00000000000004db      0x362 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .debug_line    0x000000000000083d      0x214 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_line    0x0000000000000a51      0x16a c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .debug_line    0x0000000000000bbb      0x177 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_line    0x0000000000000d32      0x208 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .debug_line    0x0000000000000f3a       0x60 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_line    0x0000000000000f9a       0xce c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_line    0x0000000000001068       0x81 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_line    0x00000000000010e9       0x91 ../temp_sensor_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_line    0x000000000000117a       0x99 ../temp_sensor_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_line    0x0000000000001213       0xb0 ../temp_sensor_bsp/\libhal_bsp.a(alt_usleep.o)
+ .debug_line    0x00000000000012c3      0x178 ../temp_sensor_bsp/\libhal_bsp.a(alt_write.o)
+ .debug_line    0x000000000000143b      0x102 ../temp_sensor_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_line    0x000000000000153d       0xf8 ../temp_sensor_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_line    0x0000000000001635      0x1c8 ../temp_sensor_bsp/\libhal_bsp.a(altera_modular_adc.o)
+ .debug_line    0x00000000000017fd       0xa2 ../temp_sensor_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_line    0x000000000000189f       0x51 ../temp_sensor_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_line    0x00000000000018f0       0xd0 ../temp_sensor_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_line    0x00000000000019c0       0x51 ../temp_sensor_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_line    0x0000000000001a11       0xb9 ../temp_sensor_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_line    0x0000000000001aca       0x4f ../temp_sensor_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_line    0x0000000000001b19       0x51 ../temp_sensor_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_line    0x0000000000001b6a      0x178 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+
+.debug_frame    0x0000000000000000      0x790
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x54 obj/default/ondie_temp.o
+ .debug_frame   0x0000000000000054       0x20 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_frame   0x0000000000000074       0x48 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .debug_frame   0x00000000000000bc       0x8c c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .debug_frame   0x0000000000000148       0x40 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_frame   0x0000000000000188       0x20 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_frame   0x00000000000001a8       0x34 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .debug_frame   0x00000000000001dc       0x80 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_frame   0x000000000000025c       0x20 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_frame   0x000000000000027c       0x5c ../temp_sensor_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_frame   0x00000000000002d8       0x38 ../temp_sensor_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_frame   0x0000000000000310       0x38 ../temp_sensor_bsp/\libhal_bsp.a(alt_usleep.o)
+ .debug_frame   0x0000000000000348       0x60 ../temp_sensor_bsp/\libhal_bsp.a(alt_write.o)
+ .debug_frame   0x00000000000003a8       0x5c ../temp_sensor_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_frame   0x0000000000000404       0x34 ../temp_sensor_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_frame   0x0000000000000438      0x1cc ../temp_sensor_bsp/\libhal_bsp.a(altera_modular_adc.o)
+ .debug_frame   0x0000000000000604       0x38 ../temp_sensor_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_frame   0x000000000000063c       0x34 ../temp_sensor_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_frame   0x0000000000000670       0x60 ../temp_sensor_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_frame   0x00000000000006d0       0x38 ../temp_sensor_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_frame   0x0000000000000708       0x34 ../temp_sensor_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_frame   0x000000000000073c       0x34 ../temp_sensor_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_frame   0x0000000000000770       0x20 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+
+.debug_str      0x0000000000000000     0x144b
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x1b8 obj/default/ondie_temp.o
+                                        0x1fb (size before relaxing)
+ .debug_str     0x00000000000001b8      0x13d c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+                                        0x1d6 (size before relaxing)
+ .debug_str     0x00000000000002f5      0x3d3 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+                                        0x4ec (size before relaxing)
+ .debug_str     0x00000000000006c8      0x1f1 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+                                        0x67a (size before relaxing)
+ .debug_str     0x00000000000008b9       0x82 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+                                        0x4c7 (size before relaxing)
+ .debug_str     0x000000000000093b       0xf9 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+                                        0x4a1 (size before relaxing)
+ .debug_str     0x0000000000000a34       0x3e c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+                                        0x1c8 (size before relaxing)
+ .debug_str     0x0000000000000a72       0x3d c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+                                        0x49b (size before relaxing)
+ .debug_str     0x0000000000000aaf       0x40 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+                                        0x1bb (size before relaxing)
+ .debug_str     0x0000000000000aef      0x199 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                                        0x1e4 (size before relaxing)
+ .debug_str     0x0000000000000c88       0x40 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/mno-hw-mul\libgcc.a(lib2-mul.o)
+                                        0x1a5 (size before relaxing)
+ .debug_str     0x0000000000000cc8      0x169 ../temp_sensor_bsp/\libhal_bsp.a(alt_load.o)
+                                        0x249 (size before relaxing)
+ .debug_str     0x0000000000000e31       0x44 ../temp_sensor_bsp/\libhal_bsp.a(alt_main.o)
+                                        0x1cd (size before relaxing)
+ .debug_str     0x0000000000000e75       0x20 ../temp_sensor_bsp/\libhal_bsp.a(alt_usleep.o)
+                                        0x17f (size before relaxing)
+ .debug_str     0x0000000000000e95       0x76 ../temp_sensor_bsp/\libhal_bsp.a(alt_write.o)
+                                        0x217 (size before relaxing)
+ .debug_str     0x0000000000000f0b       0xb8 ../temp_sensor_bsp/\libhal_bsp.a(alt_sys_init.o)
+                                        0x27a (size before relaxing)
+ .debug_str     0x0000000000000fc3       0x2c ../temp_sensor_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                                        0x24c (size before relaxing)
+ .debug_str     0x0000000000000fef      0x2a8 ../temp_sensor_bsp/\libhal_bsp.a(altera_modular_adc.o)
+                                        0x46e (size before relaxing)
+ .debug_str     0x0000000000001297       0x42 ../temp_sensor_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+                                        0x1a2 (size before relaxing)
+ .debug_str     0x00000000000012d9       0x34 ../temp_sensor_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+                                        0x18c (size before relaxing)
+ .debug_str     0x000000000000130d       0x4b ../temp_sensor_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                                        0x203 (size before relaxing)
+ .debug_str     0x0000000000001358       0x14 ../temp_sensor_bsp/\libhal_bsp.a(alt_errno.o)
+                                        0x17c (size before relaxing)
+ .debug_str     0x000000000000136c       0x2b ../temp_sensor_bsp/\libhal_bsp.a(alt_find_dev.o)
+                                        0x223 (size before relaxing)
+ .debug_str     0x0000000000001397       0x34 ../temp_sensor_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                                        0x18c (size before relaxing)
+ .debug_str     0x00000000000013cb       0x3b ../temp_sensor_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                                        0x193 (size before relaxing)
+ .debug_str     0x0000000000001406       0x45 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+                                        0x1c2 (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x1136
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0x11b c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_loc     0x000000000000011b       0xe5 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .debug_loc     0x0000000000000200      0x9e7 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .debug_loc     0x0000000000000be7       0xbd c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_loc     0x0000000000000ca4       0x1e c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_loc     0x0000000000000cc2       0xa5 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .debug_loc     0x0000000000000d67      0x2d7 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_loc     0x000000000000103e       0x93 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_loc     0x00000000000010d1       0x65 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_alt_sim_info
+                0x0000000000000000       0x40
+ *(.debug_alt_sim_info)
+ .debug_alt_sim_info
+                0x0000000000000000       0x10 ../temp_sensor_bsp//obj/HAL/src/crt0.o
+ .debug_alt_sim_info
+                0x0000000000000010       0x30 ../temp_sensor_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+                0x0000000000010000                __alt_data_end = 0x10000
+                0x0000000000010000                PROVIDE (__alt_stack_pointer, __alt_data_end)
+                0x0000000000009948                PROVIDE (__alt_stack_limit, __alt_stack_base)
+                0x0000000000009948                PROVIDE (__alt_heap_start, end)
+                0x0000000000010000                PROVIDE (__alt_heap_limit, 0x10000)
+OUTPUT(temp_sensor.elf elf32-littlenios2)
+
+.debug_ranges   0x0000000000000000       0xe8
+ .debug_ranges  0x0000000000000000       0x20 ../temp_sensor_bsp//obj/HAL/src/crt0.o
+ .debug_ranges  0x0000000000000020       0xb0 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .debug_ranges  0x00000000000000d0       0x18 c:/quartusprimewebedition/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/4.8.3/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
